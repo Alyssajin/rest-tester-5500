@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/src/servers/cpp-server",
+    "cmake.buildDirectory": "${workspaceFolder}/src/servers/cpp-server/build",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
